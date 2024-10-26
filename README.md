@@ -174,8 +174,4 @@ Potential improvements include:
 
 ## Contributors
 
-- **Ayushi Mahariye** 
-
----
-
-Let me know if you'd like to add or refine any sections!
+- **Ayushi Mahariye
